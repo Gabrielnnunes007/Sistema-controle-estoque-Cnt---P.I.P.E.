@@ -1,0 +1,13 @@
+acao,produto,timestamp
+Cadastrar Produto,"{'codigo': 1, 'nome': '1', 'tamanho': 1.0, 'unidade': 'ml', 'quantidade': 1, 'categoria': 'loja', 'cor': '1', 'dataCadastro': '2024-01-22'}",24-01-22 18:55:37
+Alterar Produto,"{'codigo': 1, 'nome': 'Joao', 'tamanho': 50.0, 'unidade': 'ml', 'quantidade': 100, 'categoria': 'cafe', 'cor': 'preto', 'dataCadastro': '2024-01-22'}",24-01-22 18:56:28
+Quantidade adicionada,100,24-01-22 18:56:55
+Alterar Código Produto,2,24-01-22 18:57:07
+Alterar Nome Produto,Pedra,24-01-22 18:57:47
+Cadastrar Produto,"{'codigo': 1, 'nome': '1', 'tamanho': 1.0, 'unidade': 'ml', 'quantidade': 1, 'categoria': 'loja', 'cor': '1', 'dataCadastro': '2024-01-22'}",24-01-22 18:55:37
+Alterar Produto,"{'codigo': 2, 'nome': 'Pedra', 'tamanho': 23.0, 'unidade': 'ml', 'quantidade': 123, 'categoria': 'loja', 'cor': 'preto', 'dataCadastro': '2024-01-22'}",24-01-22 18:56:28
+Quantidade adicionada,100,24-01-22 18:56:55
+Alterar Código Produto,2,24-01-22 18:57:07
+Alterar Nome Produto,Pedra,24-01-22 18:57:47
+Alterar Produto,"{'codigo': 1, 'nome': 'Joao', 'tamanho': 50.0, 'unidade': 'ml', 'quantidade': 100, 'categoria': 'cafe', 'cor': 'preto', 'dataCadastro': '2024-01-22'}",24-01-22 18:58:33
+Alterar Produto,"{'codigo': 1, 'nome': 'Joao', 'tamanho': 50.0, 'unidade': 'ml', 'quantidade': 100, 'categoria': 'cafe', 'cor': 'preto', 'dataCadastro': '2024-01-22'}",24-01-22 18:58:46
